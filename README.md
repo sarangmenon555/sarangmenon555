@@ -4,7 +4,7 @@
 
 Junior Programmer and high-school student from India, driven by a **builder mindset** and a passion for technology that delivers measurable impact.
 
-My foundation is built through coursework and certifications from institutions including **MIT (USA)**, the **University of Helsinki**, and multiple **IITs** — Madras, Bombay, Kanpur, Roorkee, and Kharagpur.
+My foundation is built through coursework and certifications from institutions including **MIT (USA)**, the **University of Helsinki**, and multiple **IITs** — Madras, Bombay, Kanpur, Roorkee, and Kharagpur, and other leading institutions.
 
 ---
 
