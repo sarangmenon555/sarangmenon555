@@ -1,6 +1,6 @@
 # Hi there, I'm Sarang Menon
 
-### Junior Programmer | AI/ML Developer | High-School Student from India
+### Junior Programmer | AI/ML Developer | Building Intelligent Systems
 
 Junior Programmer and high-school student from India, driven by a **builder mindset** and a passion for technology that delivers measurable impact.
 
