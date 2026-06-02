@@ -8,7 +8,7 @@ My foundation is built through coursework and certifications from institutions i
 
 ---
 
-## What I Focus On
+# What I Focus On
 
 - Building practical AI and full-stack solutions for real-world problems
 - Developing embedded systems and autonomous hardware projects
