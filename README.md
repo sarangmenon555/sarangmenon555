@@ -8,24 +8,37 @@ My foundation is built through coursework and certifications from institutions i
 
 ---
 
-## What I’m Building & Learning
+# What I Focus On
 
-### Intelligent Systems
-- Developing AI/ML models and robotics projects
-- Solving tangible, real-world problems with technology
+- Building practical AI and full-stack solutions for real-world problems
+- Developing embedded systems and autonomous hardware projects
+- Improving performance through algorithms and optimization
+- Turning data into actionable insights using analytics and visualization
 
-### Algorithmic Problem Solving
-- Deeply engaged in **Data Structures & Algorithms (DSA)**
-- Active in **Competitive Programming**
-- Treating code as a *brain sport* for solving complex logical challenges efficiently
+## Key Work
 
-### Full-Stack Web Development & Cloud
-- Architecting cross-platform applications
-- Exploring scalable cloud deployment
+### AI & Machine Learning
+Built **RedoClaim**, an AI-powered platform that analyzes insurance claim rejections. Implemented NLP and RAG pipelines to map claim documents against IRDAI guidelines, helping improve transparency and clarity in decision-making.
+
+### Robotics & Embedded Systems
+Completed **60+ Arduino-based autonomous robotics projects** across Levels 1–6, earning the **Master Completer 2025** recognition. Developed hands-on expertise in sensors, control systems, automation, and embedded programming.
+
+### Problem Solving
+Solved **250+ DSA and competitive programming problems**, strengthening analytical thinking, algorithm design, optimization, and problem-solving skills.
+
+### Full-Stack Development
+Built and deployed mobile and web applications using **Flutter, Java, and Python**, integrating REST APIs, authentication systems, databases, and backend services.
 
 ### Data & Analytics
-- Turning raw data into actionable insights
-- Working with Power BI, Tableau, SQL, and Advanced Excel
+Designed databases, dashboards, and reporting solutions using **Power BI, Tableau, and Excel** to transform data into actionable insights.
+
+## What Drives Me
+
+I believe technology creates value when it solves real-world problems beyond theory. I enjoy taking ideas from concept to deployment, building systems that are practical, scalable, and impactful.
+
+My goal is simple: **build technology that makes a difference.**
+
+I'm always open to connecting with mentors, developers, researchers, and teams working on software engineering, AI, open-source initiatives, robotics, and hackathon projects.
 
 ---
 
