@@ -1,8 +1,8 @@
 # Hi there, I'm Sarang Menon
 
-### AI/ML Student | Builder of RedoClaim
+### AI Builder & High School Student | Generative AI @ MIT Beaver Works Summer Institute | NYAS Junior Academy
 
-Junior Programmer and high-school student from India, driven by a **builder mindset** and a passion for technology that delivers measurable impact.
+Junior Programmer and a class 10 student from India, driven by a **builder mindset** and a passion for technology that delivers measurable impact.
 
 My foundation is built through coursework and certifications from institutions including **MIT (USA)**, the **University of Helsinki**, and multiple **IITs** — Madras, Bombay, Kanpur, Roorkee, and Kharagpur, and other leading institutions.
 
